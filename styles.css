@@ -51,7 +51,7 @@ header h1 {
   display: flex;
   justify-content: center;
 }
-
+/* Button Styling */
 .button {
   font-family: Inter, sans-serif;
   cursor: pointer;
